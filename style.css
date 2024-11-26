@@ -214,7 +214,7 @@ align-items: center;
 }
 .meal{
   margin-top: 10px;
-  background-image: url(daytime_bg.jpeg);
+  background-image: url(images/daytime_bg.jpe);
   display: flex;
   justify-content: space-around;
   align-items: center;
